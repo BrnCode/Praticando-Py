@@ -1,3 +1,5 @@
+#Programa que organiza arquivos por pastas existente ou não, por categorias pré determinadas
+
 import os
 
 
